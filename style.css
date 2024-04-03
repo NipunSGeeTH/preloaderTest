@@ -17,8 +17,8 @@ body {
 }
 
 .preloader img {
-  width: 500px;  /* Adjust width as needed */
-  height: 500px;  /* Adjust height as needed */
+  width: 250px;  /* Adjust width as needed */
+  height: 250px;  /* Adjust height as needed */
 }
 
 .content {
